@@ -14,3 +14,14 @@ To create new branch
 
 To delete a branch
 ```git branch -d <branch name>```
+
+TO compare two branches commits and others
+```git diff <branch name>```
+
+To merge two branches
+```git merge <branch name>```
+
+To pull the changes or update the github cloned repo on system use pull command
+```git pull origin main```
+
+
