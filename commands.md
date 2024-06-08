@@ -54,7 +54,7 @@ Checking the connectivity
 To check the branch 
 ```git branch```
 
-To rename the branch
+To rename the branch {necessary when the repo is first created on local system}
 ```git branch -M main```
 
 Updating repo : pusing the work
