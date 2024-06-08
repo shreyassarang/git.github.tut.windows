@@ -42,6 +42,24 @@ Creating a repo on local system and then making repo on Github:
 Skip the cloning part and do the rest steps.
 Create a new repo and for connecing the git to that repo, use the following command.
 
+For initialising git on that repo (Version Control System)
+```git init```
+
+Connecting the github repo to that folder
+```git remote add origin <link of the repo>```
+
+Checking the connectivity 
+```git remote -v```
+
+To check the branch 
+```git branch```
+
+To rename the branch
+```git branch -M main```
+
+Updating repo : pusing the work
+```git push origin main```
+
 Common command:
 	ls : list out all the files
 	ls -a: listing hidden files
