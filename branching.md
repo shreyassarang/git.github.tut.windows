@@ -11,3 +11,6 @@ To navigate to new branch
 
 To create new branch
 ```git checkout -b <new branchname>```
+
+To delete a branch
+```git branch -d <branch name>```
