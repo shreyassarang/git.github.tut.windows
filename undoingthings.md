@@ -5,5 +5,7 @@
 ```git reset HEAD~1```
 
 ### Undoing multiple commits 
-```git reset <commit hash(link)>
-git reset --hard <commit hash>```
+```
+git reset <commit hash(link)>
+git reset --hard <commit hash>
+```
